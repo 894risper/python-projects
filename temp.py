@@ -10,3 +10,12 @@ print( "the total grase is:",total)
 length= len(grades)
 print("the length of the list is:",length)
 print(type(grades))
+
+#if statement
+marks= int(input("enter marks"))
+if marks<40:
+     print("you are below average")
+else: 
+       print("you have passed")
+      
+
